@@ -93,7 +93,7 @@ class App extends Component {
     return (
       <>
         <header>
-          <div className='logo'>Searchbar & Sliding Panel</div>
+          <div className='logo'>SEARCH BAR & SLIDING PANEL</div>
         </header>
         <section>
           <div className='searchbar'>
