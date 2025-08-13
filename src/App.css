@@ -3,7 +3,7 @@ header{
   height: 50px;
   line-height: 50px;
   /* background: dodgerblue; */
-   background: linear-gradient(90deg, red, blue);
+   background: linear-gradient(90deg, rgb(242, 49, 49), #bdfbff);
   color: white;
   text-align: center;
 }
@@ -11,7 +11,7 @@ footer{
   height: 30px;
   line-height: 30px;
   /* background: dodgerblue; */
-  background: linear-gradient(90deg, rgb(45, 46, 45), rgb(237, 84, 122));
+  background: linear-gradient(90deg, rgb(152, 181, 152), rgb(237, 84, 122));
   color: white;
   font-size: 8pt;
   text-align: center;
