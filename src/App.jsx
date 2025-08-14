@@ -118,7 +118,7 @@ class App extends Component {
             </div>
           )}
         </section>
-        <footer>COPYRIGHT @ 2025. ALL RIGHTS ARE RESERVED.</footer>
+        <footer>COPYRIGHT © 2025. ALL RIGHTS ARE RESERVED.</footer>
       </>
     );
   }
